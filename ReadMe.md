@@ -1,7 +1,3 @@
-Программа написана на Python
-Необходимо скомпилировать файл startspoof.py
-Это ранняя версия, тут все сложно. 
-Работа идет. Все бдудет.
-А пока немного геморройно, но работает.
-Те, кто работал профессионально с питоном, не смотрите код. Закройте глаза. Не включайте ревьюера.
-Надеюсь, хоть немного облегчил вам работу.
+A small program for automating downloading an ephemeris file from the NASA website, generating a binary samples file for RTL-SDR, and running a simulation (currently only hackrf)
+
+Currently Russian language only
